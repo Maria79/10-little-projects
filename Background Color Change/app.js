@@ -1,4 +1,4 @@
-let btn = document.getElementsByClassName('btn');
+let btn = document.querySelector('.btn');
 let bodyColor = document.body.style;
 let color = document.querySelector('.color');
 
