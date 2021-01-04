@@ -1,0 +1,39 @@
+body {
+    max-width: 100%;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+body>div{
+    max-width: 75%;
+    width: 100%;
+    padding: 25px 35px;
+}
+.container {
+    position: relative;
+    max-width: 25px;
+    height: 25px;
+    margin-bottom: 45px;
+    right: 0;
+}
+.container label,
+.container input[type="checkbox"] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: pointer;
+}
+.container label {
+    font-size: 25px;
+}
+.container input[type="checkbox"] {
+    opacity: 0;
+}
+div h1 {
+    text-align: center;
+}
+
+.dark {
+    background-color: #121212;
+    color: #f1f1f1;
+}
