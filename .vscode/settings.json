@@ -1,0 +1,7 @@
+{
+    "css.styleSheets": [
+        "src/style.css"
+    ],
+    "workbench.colorTheme": "Palenight Italic",
+    "workbench.preferredHighContrastColorTheme": "Monokai"
+}
