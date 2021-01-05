@@ -20,6 +20,6 @@ body {
 .info{
     margin: 15px 0;
 }
-code {
+code.color {
     font-size: 3vw;
 }
